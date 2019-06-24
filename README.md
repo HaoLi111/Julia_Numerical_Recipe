@@ -40,5 +40,3 @@ See 'optimization'
 
 
 ### Dynamic simulation
-
-Math Modeling 4th. Ed
