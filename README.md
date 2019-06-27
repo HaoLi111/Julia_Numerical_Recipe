@@ -19,6 +19,29 @@ contents NOT FULLY DONE YET!!!
 ### Basic matrix operations
  -- well, can't remember where I learned them, though.
 
+### JuliaLang programming
+
+K. Wei Introduction to Julia Programming, China Machine Press
+
+If you are unfamiliar with Julia,see this link
+
+
+### Numerical Analysis
+
+Timothy Sauer Numerical Analysis Person(2012)
+
+Anne Greenbaum, Timothy P.Chartier Numerical Methods, Design, Analysis, and Computer Implication of Algorithms, Princeton University Press(2012)
+
+### About "Inspired by Matlab version of the code"
+
+MatLab Optimization Algorithm
+
+Modern Computing Methods
+
+### About "Inspired by R version of the code"
+Most usually they are from my previous repositories.
+
+
 ### Signal Processing
 
 #### Fourier Transform
@@ -40,3 +63,5 @@ See 'optimization'
 
 
 ### Dynamic simulation
+
+Math Modeling 4th. Ed
